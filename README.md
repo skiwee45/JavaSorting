@@ -1,2 +1,2 @@
 # JavaSorting
-all sorts of sorting methods in Java
+Raymond's sorting Java programs to practice his skills
