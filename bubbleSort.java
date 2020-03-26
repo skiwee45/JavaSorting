@@ -8,7 +8,7 @@ class bubbleSort{
             5, 2, 1, 6, 8, 3, 5, 2, 1, 6, 8, 3, 5, 2, 1, 6, 8, 3, 5, 2, 1, 6, 8, 3, 5, 2, 1, 6, 8, 3, 5, 2, 1, 6, 8, 3, 5, 2, 1, 6, 8, 3
         };
         int n = array.length;
-        
+
         //start time
         final long startTime = System.nanoTime();
 
